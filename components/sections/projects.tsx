@@ -24,6 +24,14 @@ const projects = [
     categories: ["NLP", "Machine Learning", "Deep Learning"]
   },
   {
+    title: "Explainable Artificial Intelligence for Image Quality Assessment Master's Thesis Project",
+    description: "This project provides a comprehensive framework for explainable artificial intelligence (XAI) applied to image quality assessment (IQA), with a focus on medical imaging (Chest X-rays). It combines deep learning-based segmentation, saliency mapping, and large language model (LLM) explanations to deliver both quantitative and interpretable assessments of image quality.",
+    image: "/images/projects/xai-for-iqa.png",
+    tags: ["Comparative Analysis", "Neural Networks"],
+    github: "https://github.com/MoncefDj/Explainable-Artificial-Intelligence-for-Image-Quality-Assessment",
+    categories: ["Computer Vision", "Deep Learning"]
+  },
+  {
     title: "Car Sales Volume and Resale Price Prediction",
     description: "Evaluated and tuned machine learning models to predict car sales using features like price and size.",
     image: "/images/projects/car-sales.png",
